@@ -39,12 +39,12 @@ scrapy crawl [爬虫名]
 
 如图
 
-![image-20200718222124038](C:\Users\路林梓\AppData\Roaming\Typora\typora-user-images\image-20200718222124038.png)
+![image-20200718222124038](https://github.com/iznilul/store/blob/master/image-20200718222124038.png)
 
 运行效果
 
-![image-20200718222210243](C:\Users\路林梓\AppData\Roaming\Typora\typora-user-images\image-20200718222210243.png)
+![image-20200718222210243](https://github.com/iznilul/store/blob/master/image-20200718222210243.png)
 
 数据库
 
-![image-20200718222439222](C:\Users\路林梓\AppData\Roaming\Typora\typora-user-images\image-20200718222439222.png)
+![image-20200718222439222](https://github.com/iznilul/store/blob/master/image-20200718222439222.png)
