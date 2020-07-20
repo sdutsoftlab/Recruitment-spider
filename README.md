@@ -39,12 +39,11 @@ scrapy crawl [爬虫名]
 
 如图
 
-![image-20200718222124038](https://github.com/iznilul/store/blob/master/image-20200718222124038.png)
+![image-20200718222124038.png](https://i.loli.net/2020/07/20/RP3DmWfB9QTseJc.png)
 
 运行效果
 
-![image-20200718222210243](https://github.com/iznilul/store/blob/master/image-20200718222210243.png)
-
+![image-20200718222210243.png](https://i.loli.net/2020/07/20/ImLV3oGb4CqMlNY.png)
 数据库
 
-![image-20200718222439222](https://github.com/iznilul/store/blob/master/image-20200718222439222.png)
+![image-20200718222439222.png](https://i.loli.net/2020/07/20/WIgTmHDxJ5nPFtX.png)
