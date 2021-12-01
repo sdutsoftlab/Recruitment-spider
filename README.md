@@ -1,6 +1,12 @@
 # Recruitment-spider
 招聘网站信息爬虫 （前程无忧，拉钩网，人才网，58同城，百姓网）
 
+* [bilibili](./bilibili)
+* [京东](./jd)
+* [LOL皮肤](./lol)
+* [网易云](./wangyiyun)
+* [链家](./lianjias)
+
 #### 开发工具
 
 scrapy爬虫框架+mysql8.0+pycharm
@@ -39,13 +45,11 @@ scrapy crawl [爬虫名]
 
 如图
 
-![image-20200718222124038](D:\git2\store\image-20200718222124038.png)
+![image-20200718222124038.png](https://i.loli.net/2020/07/20/RP3DmWfB9QTseJc.png)
 
 运行效果
 
-![image-20200718222210243](D:\git2\store\image-20200718222210243.png)
-
+![image-20200718222210243.png](https://i.loli.net/2020/07/20/ImLV3oGb4CqMlNY.png)
 数据库
 
-![image-20200718222439222](D:\git2\store\image-20200718222439222.png)
-
+![image-20200718222439222.png](https://i.loli.net/2020/07/20/WIgTmHDxJ5nPFtX.png)
