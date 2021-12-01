@@ -1,5 +1,6 @@
 # Recruitment-spider
-招聘网站信息爬虫 （前程无忧，拉钩网，人才网，58同城，百姓网）
+* 招聘网站信息爬虫 （前程无忧，拉钩网，人才网，58同城，百姓网,乱写的）
+* 以下为大佬整理
 
 * [bilibili](./bilibili)
 * [京东](./jd)
@@ -9,17 +10,15 @@
 
 #### 开发工具
 
-scrapy爬虫框架+mysql8.0+pycharm
+scrapy爬虫框架+mysql8.0+pycharm+selenium
 
 #### 开发技术
 
-cv+csdn
+cv+google
 
 #### 运行环境
 
 windows10+scrapy0.7.2+python3
-
-
 
 项目结构
 
